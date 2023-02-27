@@ -4,8 +4,8 @@
 *.d
 
 # vscode
-*.vscode
-*.DS_Store
+.vscode
+.DS_Store
 
 # Object files
 *.o
