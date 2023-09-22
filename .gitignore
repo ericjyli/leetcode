@@ -73,3 +73,5 @@ dkms.conf
 .vscode
 
 .build
+build
+Debug
